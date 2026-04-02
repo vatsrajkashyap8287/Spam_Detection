@@ -17,3 +17,6 @@ pandas, nltk, sklearn, seaborn, matplotlib
 1. Upload spam.csv
 2. Run all cells in order
 3. Install: pip install nltk scikit-learn pandas seaborn tqdm
+
+
+**Download and see the code**

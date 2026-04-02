@@ -1,7 +1,7 @@
 # Spam Detection using Machine Learning
 
 ## Dataset
-- spam.csv (link: Google Drive)
+- spam.csv 
 
 ## Libraries
 pandas, nltk, sklearn, seaborn, matplotlib
